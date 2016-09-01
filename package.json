@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kimiapikkonen/webrtc-ipcortex-workshop/issues"
   },
-  "homepage": "https://github.com/kimiapikkonen/webrtc-ipcortex-workshop#readme"
+  "homepage": "https://github.com/kimiapikkonen/webrtc-ipcortex-workshop#readme",
+  "dependencies": {
+    "hapi": "^15.0.3"
+  }
 }
